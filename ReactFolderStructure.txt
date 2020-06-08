@@ -1,0 +1,7 @@
+package.json --> contain dependencies for the project like react,react-dom etc versions
+             --> scripts to run the project like --> biuld run start etc
+node modules --> all the dependencies are installed
+readme       --> description of the project,colaborators etc
+public-->index.html-->single page application(react)-->we dont have to change in this file. we have to control the UI with react components
+src-->(we have to work in alot)index.js-->reactDOM(to access root id
+                               app.js -->html that displays over the main page
